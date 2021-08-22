@@ -28,7 +28,7 @@ Luaがある現在では実用性は皆無ですが、学習用の教材とし�
  
 # 動作環境
 
-Windows98以降  
+WindowsXP以降  
 Windows10での動作を確認済み  
   
 ※Winodwsに依存したコードはGUI部分のみですので、  
