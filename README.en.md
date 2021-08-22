@@ -28,7 +28,7 @@ No utility. Learning only.
  
 # Requirement
 
-Windows98 later  
+WindowsXP later  
 Windows10 Support  
   
 ※Winodws API is GUI only.Portability to other OS.  
